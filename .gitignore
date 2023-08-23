@@ -1,0 +1,6 @@
+.idea
+AirlineReservationSystem.iml
+*.iml
+.*src
+README.md
+*.properties
